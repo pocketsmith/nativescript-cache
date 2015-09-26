@@ -1,0 +1,8 @@
+{
+  "name": "nativescript-cache",
+  "version": "1.0.0",
+  "description": "A persistent caching plugin for NativeScript",
+  "main": "index.js",
+  "author": "PocketSmith",
+  "license": "ISC"
+}
