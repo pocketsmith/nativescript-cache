@@ -8,7 +8,7 @@
   },
   "main": "cache.js",
   "author": "PocketSmith",
-  "nativescript": {}
+  "nativescript": {},
   "license": {
     "type": "MIT",
     "url": "https://github.com/pocketsmith/nativescript-cache/blob/master/LICENSE"
