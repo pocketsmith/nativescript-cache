@@ -1,5 +1,7 @@
 # nativescript-cache
 
+### Note: this plugin is not being actively maintained.
+
 **nativescript-cache** is a persistent caching plugin for NativeScript. Use it to store arbitrary data locally for fast access.
 
 Built atop [TMCache](https://github.com/tumblr/TMCache) on iOS, and [SharedPreferences](http://developer.android.com/reference/android/content/SharedPreferences.html) on Android.
