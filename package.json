@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/pocketsmith/nativescript-cache.git"
   },
-  "main": "cache.js",
+  "main": "cache",
   "author": "PocketSmith",
   "nativescript": {},
   "license": {
